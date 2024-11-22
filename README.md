@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<!--
-**gringo-1f/gringo-1f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
+[cauby](https://youtu.be/Zi_XLOBDo_Y?si=FgFZIRtgvr6f13iQ)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  ![](https://media1.tenor.com/m/u_72T1TXSr4AAAAd/lol-mekro.gif)
+  ![](https://media1.tenor.com/m/7Ienx0j5cqoAAAAd/fast-and.gif)
+
+ 
